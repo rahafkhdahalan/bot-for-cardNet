@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
+python-telegram-bot==21.5
 pandas==2.2.3
 yfinance==0.2.43
 python-dotenv==1.0.1
